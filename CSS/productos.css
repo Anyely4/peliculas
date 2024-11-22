@@ -36,6 +36,20 @@ nav ul li a{
     font-size: 1rem;
 }
 
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)), url(/Imagenes/fondo.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+
 h1{
     
     text-align: center;
@@ -208,12 +222,6 @@ footer {
     background-color: #555; 
     color: #f0f0f0; 
 }
-
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
-}
-
 
 .gallery-container {
     max-width: 1200px;

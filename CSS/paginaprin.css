@@ -24,7 +24,7 @@ nav ul{
 
 nav ul li{
     display: inline-block;
-    line-height: 100px;
+    line-height: 110px;
     margin: -10px 10px;
 
 }
@@ -154,7 +154,6 @@ body{
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)), url(/Imagenes/fondo.webp);
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
 
