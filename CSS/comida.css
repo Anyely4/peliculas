@@ -204,30 +204,3 @@ footer {
   ul li {
     margin: 5px 0;
   }
-
-
-
-h1{
-    color: white;
-    text-align: center;
-
-}
-
-h2{
-    color: white;
-}
-
-.image-container {
-    display: flex;
-    justify-content: center;
-    gap: 20px; 
-    padding: 20px;
-}
-
-
-.image {
-    width: 500px; 
-    height: 600px;
-    border-radius: 10%;
-    margin: 20px;
-}
