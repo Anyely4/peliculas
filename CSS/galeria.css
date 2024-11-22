@@ -155,12 +155,15 @@ body{
 
 }
 
-<<<<<<< HEAD
 
+p{
+    margin-right: 60px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    list-style: none;
+}
 
-/* contenido */
-=======
->>>>>>> fa98b4301264c8eba1bbbab093cf436640209fd7
   .galeria{
     display: grid;
     grid-template-columns: auto  auto auto auto;
